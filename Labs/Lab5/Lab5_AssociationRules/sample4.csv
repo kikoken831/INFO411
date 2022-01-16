@@ -1,0 +1,10 @@
+bread,milk
+sausage,beer
+bread,butter
+sausage,butter,milk
+bread,butter
+beer
+beer,milk
+beer,milk,bread,sausage,beer
+milk
+bread,butter,beer
